@@ -4,7 +4,7 @@
 | --- | --- |
 | Project1 | 99/100 |
 | Project2 | 97/100 |
-| Project3 | x/100 |
-| Project4 | x/100 |
+| Project3 | 400/400 |
+| Project4 | 120/125 |
 
 Please use it for reference only at on you own risk.
