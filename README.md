@@ -6,5 +6,6 @@
 | Project2 | 97/100 |
 | Project3 | 400/400 |
 | Project4 | 120/125 |
+| Grade | A |
 
 Please use it for reference only at on you own risk.
